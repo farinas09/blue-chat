@@ -14,7 +14,7 @@ class Logo extends StatelessWidget {
               child: Image(image: AssetImage('assets/chat.png')),
             ),
             Text(
-              'QuickServices',
+              'Messenger',
               style: TextStyle(fontSize: 30, color: Colors.black87),
             )
           ],
